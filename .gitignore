@@ -1,0 +1,7 @@
+*.orig
+*.swp
+.gradle
+/build
+/gradle
+gradlew*
+/tmp
